@@ -72,6 +72,7 @@ Many low level node.js libs written in c/c++. That's awesome, but in some trade 
 * Buckets-JS(collections) https://github.com/mauriciosantos/Buckets-JS
 * Data-Structures(collections) https://github.com/Bishop92/JavaScript-Data-Structures
 * lago(collections) https://github.com/yangshun/lago
+* dsjslib(collections) https://github.com/monmohan/dsjslib
 
 #### algorithms
 * fabonacci-layout https://github.com/heineiuo/fabonacci-layout

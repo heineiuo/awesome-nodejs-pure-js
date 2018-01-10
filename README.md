@@ -39,6 +39,7 @@ Many low level node.js libs written in c/c++. That's awesome, but in some trade 
 * jsPDF https://github.com/MrRio/jsPDF
 * pdf.js https://github.com/mozilla/pdf.js
 * pdfmake https://github.com/bpampuch/pdfmake
+* plist https://github.com/TooTallNate/plist.js
 
 ## crypto (加密)
 * sha.js https://github.com/crypto-browserify/sha.js

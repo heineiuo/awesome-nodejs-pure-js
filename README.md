@@ -1,5 +1,8 @@
 # awesome-nodejs-pure-js
 
+Many low level node.js libs written in c/c++. That's awesome, but in some trade off case we need pure javascript lib.
+
+
 ## graphic 
 #### image
 * jpeg-js https://github.com/eugeneware/jpeg-js

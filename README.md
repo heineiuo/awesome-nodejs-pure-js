@@ -7,6 +7,7 @@ Many low level node.js libs written in c/c++. That's awesome, but in some trade 
 #### image (图片处理)
 * jpeg-js https://github.com/eugeneware/jpeg-js
 * upng.js https://github.com/photopea/UPNG.js
+* jimp https://github.com/oliver-moran/jimp
 
 #### captcha (验证码)
 * trek captcha https://github.com/trekjs/captcha

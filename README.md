@@ -41,11 +41,11 @@ Many low level node.js libs written in c/c++. That's awesome, but in some trade 
 ## i18n
 
 #### polyfill
-date-time-format-timezone https://github.com/yahoo/date-time-format-timezone
-Intl.js https://github.com/andyearnshaw/Intl.js
+* date-time-format-timezone https://github.com/yahoo/date-time-format-timezone
+* Intl.js https://github.com/andyearnshaw/Intl.js
 
 #### pinyin 拼音
-pinyinjs https://github.com/sxei/pinyinjs
+* pinyinjs https://github.com/sxei/pinyinjs
 
   
   

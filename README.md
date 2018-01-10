@@ -10,6 +10,7 @@ Many low level node.js libs written in c/c++. That's awesome, but in some trade 
 
 #### special image generator 
 * trek captcha https://github.com/trekjs/captcha
+* svg captcha https://github.com/lemonce/svg-captcha
 * qr image https://github.com/alexeyten/qr-image
 
 #### font (字体)

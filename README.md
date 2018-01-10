@@ -63,6 +63,8 @@ Many low level node.js libs written in c/c++. That's awesome, but in some trade 
 * LinkList https://github.com/isaacs/yallist
 * node-jumplist(skiplist) https://github.com/superisaac/node-jumplist
 
+#### algorithms
+* fabonacci-layout https://github.com/heineiuo/fabonacci-layout
 
 ---
 

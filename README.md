@@ -44,6 +44,12 @@ Many low level node.js libs written in c/c++. That's awesome, but in some trade 
 * plist https://github.com/TooTallNate/plist.js
 * xml https://github.com/jindw/xmldom
 
+#### data interchange format (数据交换格式)
+* bson https://github.com/mongodb/js-bson
+* protobuf.js https://github.com/dcodeIO/protobuf.js
+* msgpack5 https://github.com/mcollina/msgpack5
+* msgpack-js https://github.com/creationix/msgpack-js
+
 ## crypto (加密)
 * sha.js https://github.com/crypto-browserify/sha.js
 

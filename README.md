@@ -33,6 +33,7 @@ Many low level node.js libs written in c/c++. That's awesome, but in some trade 
   
 ## char encode/decode (文本编码)
 * iconv-lite https://github.com/ashtuchkin/iconv-lite
+* base64 https://github.com/beatgammit/base64-js
   
 ## file format (文件格式)
 * xlsx https://github.com/SheetJS/js-xlsx
@@ -40,6 +41,7 @@ Many low level node.js libs written in c/c++. That's awesome, but in some trade 
 * pdf.js https://github.com/mozilla/pdf.js
 * pdfmake https://github.com/bpampuch/pdfmake
 * plist https://github.com/TooTallNate/plist.js
+* xml https://github.com/jindw/xmldom
 
 ## crypto (加密)
 * sha.js https://github.com/crypto-browserify/sha.js

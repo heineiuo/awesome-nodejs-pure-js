@@ -59,6 +59,10 @@ Many low level node.js libs written in c/c++. That's awesome, but in some trade 
 ## data structures and algorithms  
 * lru-cache https://github.com/isaacs/node-lru-cache
 
+#### data structures
+* LinkList https://github.com/isaacs/yallist
+* node-jumplist(skiplist) https://github.com/superisaac/node-jumplist
+
 
 ---
 

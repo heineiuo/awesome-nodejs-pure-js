@@ -55,8 +55,10 @@ Many low level node.js libs written in c/c++. That's awesome, but in some trade 
 #### pinyin (拼音)
 * pinyinjs https://github.com/sxei/pinyinjs
 
-  
-  
+## data structures and algorithms  
+* lru-cache https://github.com/isaacs/node-lru-cache
+
+
 ---
 
 Contribution welcome, please use issue to commit libs.

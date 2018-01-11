@@ -21,6 +21,9 @@ Many low level node.js libs written in c/c++. That's awesome, but in some trade 
 * opentype https://github.com/nodebox/opentype.js
 * ttj.js https://github.com/ynakajima/ttf.js
 
+#### math
+* js-2dmath https://github.com/llafuente/js-2dmath
+
 ## compress (压缩)
 * pako https://github.com/nodeca/pako
   

@@ -20,6 +20,7 @@ Many low level node.js libs written in c/c++. That's awesome, but in some trade 
 * typr https://github.com/photopea/Typr.js
 * opentype https://github.com/nodebox/opentype.js
 * ttj.js https://github.com/ynakajima/ttf.js
+* BDF.js https://github.com/victorporof/BDF.js
 
 #### math
 * js-2dmath https://github.com/llafuente/js-2dmath

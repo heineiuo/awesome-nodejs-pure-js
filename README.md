@@ -1,6 +1,6 @@
 # awesome-nodejs-pure-js
 
-Many low level node.js libs written in c/c++. That's awesome, but in some trade off case we need pure javascript lib.
+Many low level node.js libs written in c/c++ or dependent on native modules. That's awesome, but in some trade off case we need pure javascript lib.
 
 
 ## graphic (图形库)

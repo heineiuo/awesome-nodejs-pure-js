@@ -5,42 +5,43 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 
 ## graphic (图形库)
 #### image (图片处理)
-* [jpeg-js](https://github.com/eugeneware/jpeg-js)
-* [upng.js](https://github.com/photopea/UPNG.js)
-* [jimp](https://github.com/oliver-moran/jimp)
+* [jpeg-js](https://github.com/eugeneware/jpeg-js) A pure javascript JPEG encoder and decoder for node.js
+* [upng.js](https://github.com/photopea/UPNG.js) Fast and advanced PNG (APNG) decoder and encoder
+* [jimp](https://github.com/oliver-moran/jimp) An image processing library written entirely in JavaScript
 
 #### video (视频)
-* [node-mpeg2ts-parser](https://github.com/t6tn4k/node-mpeg2ts-parser)
+* [node-mpeg2ts-parser](https://github.com/t6tn4k/node-mpeg2ts-parser) MPEG-2 TS parser in Node.js
 
 #### captcha (验证码)
-* [trek captcha](https://github.com/trekjs/captcha)
-* [svg captcha](https://github.com/lemonce/svg-captcha)
+* [trek captcha](https://github.com/trekjs/captcha) A Lightweight Pure JavaScript Captcha for Node.js. No C/C++, No ImageMagick, No Canvas.
+* [svg captcha](https://github.com/lemonce/svg-captcha) generate svg captcha in node
 
 #### qr (二维码)
-* [qr image](https://github.com/alexeyten/qr-image)
+* [qr image](https://github.com/alexeyten/qr-image) Yet another QR code generator
 
 #### font (字体)
-* [typr](https://github.com/photopea/Typr.js)
-* [opentype](https://github.com/nodebox/opentype.js)
-* [ttj.js](https://github.com/ynakajima/ttf.js)
-* [BDF.js](https://github.com/victorporof/BDF.js)
+* [typr](https://github.com/photopea/Typr.js) process fonts in Javascript
+* [opentype](https://github.com/nodebox/opentype.js) Read and write OpenType fonts using JavaScript
+* [ttj.js](https://github.com/ynakajima/ttf.js) JavaScript font library for Node.js
+* [BDF.js](https://github.com/victorporof/BDF.js) Simple library for reading Adobe Glyph Bitmap Distribution font files
 
 #### math
-* [js-2dmath](https://github.com/llafuente/js-2dmath)
+* [js-2dmath](https://github.com/llafuente/js-2dmath) Fast 2d geometry math: Vector2, Rectangle, Circle, Matrix2x3 (2D transformation), Circle, BoundingBox, Line2, Segment2, Intersections, Distances, Transitions (animation/tween), Noise, Random numbers
 
 ## compress (压缩)
-* [pako](https://github.com/nodeca/pako)
+* [pako](https://github.com/nodeca/pako) high speed zlib port to javascript
   
 
 ## net protocol (网络库)
-* [ws](https://github.com/websockets/ws)
-* [eshttp](https://github.com/iefserge/eshttp)
-* [dns](https://github.com/tjfontaine/node-dns)
-* [ssh2](https://github.com/mscdex/ssh2)
+* [ws](https://github.com/websockets/ws) Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
+* [eshttp](https://github.com/iefserge/eshttp)  Portable pure JavaScript ES6/2015 HTTP library
+* [dns](https://github.com/tjfontaine/node-dns) Replacement dns module in pure javascript for node.js
+* [ssh2](https://github.com/mscdex/ssh2) SSH2 client and server modules written in pure JavaScript for node.js
 * [netcat](https://github.com/roccomuso/netcat)
   
 ## char encode/decode (文本编码)
-* [iconv-lite](https://github.com/ashtuchkin/iconv-lite)
+* [iconv-lite](https://github.com/ashtuchkin/iconv-lite) Convert character encodings in pure javascript.
+
 * [base64](https://github.com/beatgammit/base64-js)
   
 ## file format (文件格式)

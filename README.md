@@ -5,43 +5,43 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 
 ## graphic (图形库)
 #### image (图片处理)
-* jpeg-js https://github.com/eugeneware/jpeg-js
-* upng.js https://github.com/photopea/UPNG.js
-* jimp https://github.com/oliver-moran/jimp
+* [jpeg-js](https://github.com/eugeneware/jpeg-js)
+* [upng.js](https://github.com/photopea/UPNG.js)
+* [jimp](https://github.com/oliver-moran/jimp)
 
 #### video (视频)
-* node-mpeg2ts-parser https://github.com/t6tn4k/node-mpeg2ts-parser
+* [node-mpeg2ts-parser](https://github.com/t6tn4k/node-mpeg2ts-parser)
 
 #### captcha (验证码)
-* trek captcha https://github.com/trekjs/captcha
-* svg captcha https://github.com/lemonce/svg-captcha
+* [trek captcha](https://github.com/trekjs/captcha)
+* [svg captcha](https://github.com/lemonce/svg-captcha)
 
 #### qr (二维码)
-* qr image https://github.com/alexeyten/qr-image
+* [qr image](https://github.com/alexeyten/qr-image)
 
 #### font (字体)
-* typr https://github.com/photopea/Typr.js
-* opentype https://github.com/nodebox/opentype.js
-* ttj.js https://github.com/ynakajima/ttf.js
-* BDF.js https://github.com/victorporof/BDF.js
+* [typr](https://github.com/photopea/Typr.js)
+* [opentype](https://github.com/nodebox/opentype.js)
+* [ttj.js](https://github.com/ynakajima/ttf.js)
+* [BDF.js](https://github.com/victorporof/BDF.js)
 
 #### math
-* js-2dmath https://github.com/llafuente/js-2dmath
+* [js-2dmath](https://github.com/llafuente/js-2dmath)
 
 ## compress (压缩)
-* pako https://github.com/nodeca/pako
+* [pako](https://github.com/nodeca/pako)
   
 
 ## net protocol (网络库)
-* ws https://github.com/websockets/ws
-* eshttp https://github.com/iefserge/eshttp
-* dns https://github.com/tjfontaine/node-dns
-* ssh2 https://github.com/mscdex/ssh2
-* netcat https://github.com/roccomuso/netcat
+* [ws](https://github.com/websockets/ws)
+* [eshttp](https://github.com/iefserge/eshttp)
+* [dns](https://github.com/tjfontaine/node-dns)
+* [ssh2](https://github.com/mscdex/ssh2)
+* [netcat](https://github.com/roccomuso/netcat)
   
 ## char encode/decode (文本编码)
-* iconv-lite https://github.com/ashtuchkin/iconv-lite
-* base64 https://github.com/beatgammit/base64-js
+* [iconv-lite](https://github.com/ashtuchkin/iconv-lite)
+* [base64](https://github.com/beatgammit/base64-js)
   
 ## file format (文件格式)
 * [xlsx](https://github.com/SheetJS/js-xlsx)
@@ -54,37 +54,37 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * [mime](https://github.com/broofa/node-mime) mime type for javascript
 
 #### data interchange format (数据交换格式)
-* bson https://github.com/mongodb/js-bson
-* protobuf.js https://github.com/dcodeIO/protobuf.js
-* msgpack5 https://github.com/mcollina/msgpack5
-* msgpack-js https://github.com/creationix/msgpack-js
+* [bson](https://github.com/mongodb/js-bson)
+* [protobuf.js](https://github.com/dcodeIO/protobuf.js)
+* [msgpack5](https://github.com/mcollina/msgpack5)
+* [msgpack-js](https://github.com/creationix/msgpack-js)
 
 ## crypto (加密)
-* sha.js https://github.com/crypto-browserify/sha.js
+* [sha.js](https://github.com/crypto-browserify/sha.js)
 
 ## i18n (国际化)
 
 #### polyfill
-* date-time-format-timezone https://github.com/yahoo/date-time-format-timezone
-* Intl.js https://github.com/andyearnshaw/Intl.js
+* [date-time-format-timezone](https://github.com/yahoo/date-time-format-timezone)
+* [Intl.js](https://github.com/andyearnshaw/Intl.js)
 
 #### pinyin (拼音)
-* pinyinjs https://github.com/sxei/pinyinjs
+* [pinyinjs](https://github.com/sxei/pinyinjs)
 
 ## data structures and algorithms  
-* lru-cache https://github.com/isaacs/node-lru-cache
+* [lru-cache](https://github.com/isaacs/node-lru-cache)
 
 #### data structures
-* LinkList https://github.com/isaacs/yallist
-* node-jumplist(skiplist) https://github.com/superisaac/node-jumplist
-* js-tree https://github.com/wangzuo/js-tree
-* Buckets-JS(collections) https://github.com/mauriciosantos/Buckets-JS
-* Data-Structures(collections) https://github.com/Bishop92/JavaScript-Data-Structures
-* lago(collections) https://github.com/yangshun/lago
-* dsjslib(collections) https://github.com/monmohan/dsjslib
+* [LinkList](https://github.com/isaacs/yallist)
+* [node-jumplist(skiplist)](https://github.com/superisaac/node-jumplist)
+* [js-tree](https://github.com/wangzuo/js-tree)
+* [Buckets-JS(collections)](https://github.com/mauriciosantos/Buckets-JS)
+* [Data-Structures(collections)](https://github.com/Bishop92/JavaScript-Data-Structures)
+* [lago(collections)](https://github.com/yangshun/lago)
+* [dsjslib(collections)](https://github.com/monmohan/dsjslib)
 
 #### algorithms
-* fabonacci-layout https://github.com/heineiuo/fabonacci-layout
+* [fabonacci-layout](https://github.com/heineiuo/fabonacci-layout)
 
 ---
 

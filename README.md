@@ -76,6 +76,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * [lru-cache](https://github.com/isaacs/node-lru-cache)
 
 #### data structures
+* [long.js](https://github.com/dcodeIO/long.js) A Long class for representing a 64-bit two's-complement integer value.
 * [LinkList](https://github.com/isaacs/yallist)
 * [node-jumplist(skiplist)](https://github.com/superisaac/node-jumplist)
 * [js-tree](https://github.com/wangzuo/js-tree)

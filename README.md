@@ -74,7 +74,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * [pinyinjs](https://github.com/sxei/pinyinjs)
 
 ## data structures and algorithms  
-* [lru-cache](https://github.com/isaacs/node-lru-cache)
+* [lru-cache](https://github.com/isaacs/node-lru-cache) A cache object that deletes the least-recently-used items.
 
 #### data structures
 * [long.js](https://github.com/dcodeIO/long.js) A Long class for representing a 64-bit two's-complement integer value.
@@ -92,10 +92,11 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 
 ## database
 
-* [thalia](https://github.com/calvinmetcalf/thalia)
-* [jinn-db](https://github.com/lasalvavida/jinn-db)
-* [node-lsm](https://github.com/gutobortolozzo/node-lsm)
-* [node-leveljs](https://github.com/lemonhall/node-leveljs)
+* [thalia](https://github.com/calvinmetcalf/thalia) pure js NOT in memory db
+* [jinn-db](https://github.com/lasalvavida/jinn-db) A pure javascript, persistent key-value store for Node.js that supports out-of-core data access.
+* [node-lsm](https://github.com/gutobortolozzo/node-lsm) log structured merge tree in pure node.js
+* [node-leveljs](https://github.com/lemonhall/node-leveljs) LevelDB in pure JavaScript, a very immature work in progress
+
 
 ---
 

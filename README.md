@@ -30,6 +30,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 
 ## compress (压缩)
 * [pako](https://github.com/nodeca/pako) high speed zlib port to javascript
+* [tar](https://github.com/npm/node-tar) tar for node
   
 
 ## net protocol (网络库)

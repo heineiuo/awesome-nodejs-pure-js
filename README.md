@@ -49,7 +49,9 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * pdf.js https://github.com/mozilla/pdf.js
 * pdfmake https://github.com/bpampuch/pdfmake
 * plist https://github.com/TooTallNate/plist.js
-* xml https://github.com/jindw/xmldom
+* [https://github.com/jindw/xmldom](xmldom) xml
+* [https://github.com/sindresorhus/file-type](file-type) Detect the file type of a Buffer/Uint8Array 
+* [https://github.com/broofa/node-mime](mime) mime type for javascript
 
 #### data interchange format (数据交换格式)
 * bson https://github.com/mongodb/js-bson

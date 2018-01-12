@@ -56,9 +56,9 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * [mime](https://github.com/broofa/node-mime) mime type for javascript
 
 #### data interchange format (数据交换格式)
-* [bson](https://github.com/mongodb/js-bson)
-* [protobuf.js](https://github.com/dcodeIO/protobuf.js)
-* [msgpack5](https://github.com/mcollina/msgpack5)
+* [bson](https://github.com/mongodb/js-bson) BSON is short for Binary JSON and is the binary-encoded serialization of JSON-like documents
+* [protobuf.js](https://github.com/dcodeIO/protobuf.js) Protocol Buffers are a language-neutral, platform-neutral, extensible way of serializing structured data for use in communications protocols, data storage, and more, originally designed at Google
+* [msgpack5](https://github.com/mcollina/msgpack5) 
 * [msgpack-js](https://github.com/creationix/msgpack-js)
 
 ## crypto (加密)
@@ -67,11 +67,12 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 ## i18n (国际化)
 
 #### polyfill
-* [date-time-format-timezone](https://github.com/yahoo/date-time-format-timezone)
-* [Intl.js](https://github.com/andyearnshaw/Intl.js)
+* [date-time-format-timezone](https://github.com/yahoo/date-time-format-timezone) Surgically polyfills timezone support in Intl.DateTimeFormat API
+* [Intl.js](https://github.com/andyearnshaw/Intl.js) Compatibility implementation of the ECMAScript Internationalization API (ECMA-402) for JavaScript
+
 
 #### pinyin (拼音)
-* [pinyinjs](https://github.com/sxei/pinyinjs)
+* [pinyinjs](https://github.com/sxei/pinyinjs) 一个实现汉字与拼音互转的工具库
 
 ## data structures and algorithms  
 * [lru-cache](https://github.com/isaacs/node-lru-cache) A cache object that deletes the least-recently-used items.

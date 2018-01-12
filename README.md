@@ -89,6 +89,14 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 #### algorithms
 * [fabonacci-layout](https://github.com/heineiuo/fabonacci-layout)
 
+
+## database
+
+* [thalia](https://github.com/calvinmetcalf/thalia)
+* [jinn-db](https://github.com/lasalvavida/jinn-db)
+* [node-lsm](https://github.com/gutobortolozzo/node-lsm)
+* [node-leveljs](https://github.com/lemonhall/node-leveljs)
+
 ---
 
 Contribution welcome, please use issue to commit libs.

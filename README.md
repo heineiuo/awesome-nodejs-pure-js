@@ -44,14 +44,14 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * base64 https://github.com/beatgammit/base64-js
   
 ## file format (文件格式)
-* xlsx https://github.com/SheetJS/js-xlsx
-* jsPDF https://github.com/MrRio/jsPDF
-* pdf.js https://github.com/mozilla/pdf.js
-* pdfmake https://github.com/bpampuch/pdfmake
-* plist https://github.com/TooTallNate/plist.js
-* [https://github.com/jindw/xmldom](xmldom) xml
-* [https://github.com/sindresorhus/file-type](file-type) Detect the file type of a Buffer/Uint8Array 
-* [https://github.com/broofa/node-mime](mime) mime type for javascript
+* [xlsx](https://github.com/SheetJS/js-xlsx)
+* [jsPDF](https://github.com/MrRio/jsPDF)
+* [pdf.js](https://github.com/mozilla/pdf.js)
+* [pdfmake](https://github.com/bpampuch/pdfmake)
+* [plist](https://github.com/TooTallNate/plist.js)
+* [xmldom](https://github.com/jindw/xmldom) xml
+* [file-type](https://github.com/sindresorhus/file-type) Detect the file type of a Buffer/Uint8Array 
+* [mime](https://github.com/broofa/node-mime) mime type for javascript
 
 #### data interchange format (数据交换格式)
 * bson https://github.com/mongodb/js-bson

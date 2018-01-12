@@ -79,9 +79,9 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * [node-jumplist(skiplist)](https://github.com/superisaac/node-jumplist)
 * [js-tree](https://github.com/wangzuo/js-tree)
 * [Buckets-JS(collections)](https://github.com/mauriciosantos/Buckets-JS)
-* [Data-Structures(collections)](https://github.com/Bishop92/JavaScript-Data-Structures)
-* [lago(collections)](https://github.com/yangshun/lago)
-* [dsjslib(collections)](https://github.com/monmohan/dsjslib)
+* [Data-Structures(collections)](https://github.com/Bishop92/JavaScript-Data-Structures) A library for data structure in JavaScript
+* [lago(collections)](https://github.com/yangshun/lago) 🌴 Data Structures and Algorithms library for JavaScript.
+* [dsjslib(collections)](https://github.com/monmohan/dsjslib) A library implementing several standard data structures and utilities
 
 #### algorithms
 * [fabonacci-layout](https://github.com/heineiuo/fabonacci-layout)

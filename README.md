@@ -8,6 +8,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * [jpeg-js](https://github.com/eugeneware/jpeg-js) A pure javascript JPEG encoder and decoder for node.js
 * [upng.js](https://github.com/photopea/UPNG.js) Fast and advanced PNG (APNG) decoder and encoder
 * [jimp](https://github.com/oliver-moran/jimp) An image processing library written entirely in JavaScript
+* ⭐️ [node-pureimage](https://github.com/joshmarinacci/node-pureimage) Pure JS implementation of an image drawing and encoding api, based on HTML Canvas
 
 #### video (视频)
 * [node-mpeg2ts-parser](https://github.com/t6tn4k/node-mpeg2ts-parser) MPEG-2 TS parser in Node.js
@@ -20,7 +21,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * [qr image](https://github.com/alexeyten/qr-image) Yet another QR code generator
 
 #### font (字体)
-* [typr](https://github.com/photopea/Typr.js) process fonts in Javascript
+* ~~[typr](https://github.com/photopea/Typr.js) process fonts in Javascript~~
 * [opentype](https://github.com/nodebox/opentype.js) Read and write OpenType fonts using JavaScript
 * [ttj.js](https://github.com/ynakajima/ttf.js) JavaScript font library for Node.js
 * [BDF.js](https://github.com/victorporof/BDF.js) Simple library for reading Adobe Glyph Bitmap Distribution font files

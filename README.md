@@ -41,6 +41,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * [dns](https://github.com/tjfontaine/node-dns) Replacement dns module in pure javascript for node.js
 * [ssh2](https://github.com/mscdex/ssh2) SSH2 client and server modules written in pure JavaScript for node.js
 * [netcat](https://github.com/roccomuso/netcat)
+* [node-x11](https://github.com/sidorares/node-x11)  X11 node.js network protocol client
 
 ## system (系统)
 

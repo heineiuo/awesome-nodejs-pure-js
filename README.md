@@ -46,6 +46,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 ## system (系统)
 
 * [ps-list](https://github.com/sindresorhus/ps-list) Get running processes. Works on macOS, Linux, and Windows.
+* [font-list](https://github.com/oldj/node-font-list) Current version supports macOS and Windows only, can not be used on Linux yet.
 
 #### windows
 * [node-winreg](https://github.com/fresc81/node-winreg) node module that provides access to the Windows Registry through the REG commandline tool

@@ -41,11 +41,6 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * [ssh2](https://github.com/mscdex/ssh2) SSH2 client and server modules written in pure JavaScript for node.js
 * [netcat](https://github.com/roccomuso/netcat)
   
-## char encode/decode (文本编码)
-* [iconv-lite](https://github.com/ashtuchkin/iconv-lite) Convert character encodings in pure javascript.
-
-* [base64](https://github.com/beatgammit/base64-js)
-  
 ## file format (文件格式)
 * [xlsx](https://github.com/SheetJS/js-xlsx)
 * [jsPDF](https://github.com/MrRio/jsPDF)
@@ -65,6 +60,13 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 ## text （文本处理）
 * [jsdiff](https://github.com/kpdecker/jsdiff) A javascript text differencing implementation.
 
+#### pinyin (拼音)
+* [pinyinjs](https://github.com/sxei/pinyinjs) 一个实现汉字与拼音互转的工具库
+
+#### char encode/decode (文本编码)
+* [iconv-lite](https://github.com/ashtuchkin/iconv-lite) Convert character encodings in pure javascript.
+* [base64](https://github.com/beatgammit/base64-js)
+  
 ## crypto (加密)
 * [sha.js](https://github.com/crypto-browserify/sha.js)
 
@@ -73,10 +75,6 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 #### polyfill
 * [date-time-format-timezone](https://github.com/yahoo/date-time-format-timezone) Surgically polyfills timezone support in Intl.DateTimeFormat API
 * [Intl.js](https://github.com/andyearnshaw/Intl.js) Compatibility implementation of the ECMAScript Internationalization API (ECMA-402) for JavaScript
-
-
-#### pinyin (拼音)
-* [pinyinjs](https://github.com/sxei/pinyinjs) 一个实现汉字与拼音互转的工具库
 
 ## data structures and algorithms  
 * [lru-cache](https://github.com/isaacs/node-lru-cache) A cache object that deletes the least-recently-used items.

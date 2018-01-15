@@ -65,6 +65,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * [protobuf.js](https://github.com/dcodeIO/protobuf.js) Protocol Buffers are a language-neutral, platform-neutral, extensible way of serializing structured data for use in communications protocols, data storage, and more, originally designed at Google
 * [msgpack5](https://github.com/mcollina/msgpack5) 
 * [msgpack-js](https://github.com/creationix/msgpack-js)
+* [binary-extract](https://github.com/juliangruber/binary-extract) Extract a value from a buffer of json without parsing the whole thing
 
 ## text （文本处理）
 * [jsdiff](https://github.com/kpdecker/jsdiff) A javascript text differencing implementation.

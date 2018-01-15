@@ -100,7 +100,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 
 #### algorithms
 * [fabonacci-layout](https://github.com/heineiuo/fabonacci-layout)
-
+* [crc](https://github.com/alexgorbatchev/node-crc) Module for calculating Cyclic Redundancy Check (CRC)
 
 ## database
 

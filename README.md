@@ -33,8 +33,8 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 ## compress (压缩)
 * [pako](https://github.com/nodeca/pako) high speed zlib port to javascript
 * [tar](https://github.com/npm/node-tar) tar for node
+* [tar-stream](https://github.com/mafintosh/tar-stream)  tar-stream is a streaming tar parser and generator.
 * [snappyjs](https://github.com/zhipeng-jia/snappyjs) JavaScript implementation of Google's Snappy compression library
-  
 
 ## net protocol (网络库)
 * [ws](https://github.com/websockets/ws) Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js

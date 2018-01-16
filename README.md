@@ -87,6 +87,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) JsonWebToken implementation for node.js
 * [keypair](https://github.com/juliangruber/keypair) Generate a RSA PEM key pair from pure JS
 * [AES-js](https://github.com/ricmoo/aes-js) A pure JavaScript implementation of the AES block cipher and all common modes of operation for node.js
+* [BLAKE2s](https://github.com/dchest/blake2s-js) BLAKE2s cryptographic hash function in JavaScript
 
 
 ## i18n (国际化)

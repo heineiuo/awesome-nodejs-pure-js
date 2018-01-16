@@ -82,6 +82,8 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 ## crypto (加密)
 * [sha.js](https://github.com/crypto-browserify/sha.js)
 * [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) JsonWebToken implementation for node.js
+* [keypair](https://github.com/juliangruber/keypair) Generate a RSA PEM key pair from pure JS
+
 
 ## i18n (国际化)
 

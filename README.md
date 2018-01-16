@@ -104,6 +104,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 #### algorithms
 * [fabonacci-layout](https://github.com/heineiuo/fabonacci-layout)
 * [crc](https://github.com/alexgorbatchev/node-crc) Module for calculating Cyclic Redundancy Check (CRC)
+* [buffer-crc32](https://github.com/brianloveswords/buffer-crc32) A pure javascript CRC32 algorithm that plays nice with binary data
 
 ## database
 

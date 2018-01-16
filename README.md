@@ -20,6 +20,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * [svg captcha](https://github.com/lemonce/svg-captcha) generate svg captcha in node
 
 #### qr (二维码)
+* [jsQR](https://github.com/cozmo/jsQR) A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within
 * [qr image](https://github.com/alexeyten/qr-image) Yet another QR code generator
 
 #### font (字体)

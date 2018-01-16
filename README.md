@@ -7,6 +7,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 #### image (图片处理)
 * [jpeg-js](https://github.com/eugeneware/jpeg-js) A pure javascript JPEG encoder and decoder for node.js
 * [upng.js](https://github.com/photopea/UPNG.js) Fast and advanced PNG (APNG) decoder and encoder
+* [node-pnglib](https://github.com/Lellansin/node-pnglib) Pure Javascript lib for generate PNG, Node.js version for PNGlib.
 * [jimp](https://github.com/oliver-moran/jimp) An image processing library written entirely in JavaScript
 * ⭐️ [node-pureimage](https://github.com/joshmarinacci/node-pureimage) Pure JS implementation of an image drawing and encoding api, based on HTML Canvas
 * [look-same](https://github.com/gemini-testing/looks-same) Node.js library for comparing images

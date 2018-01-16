@@ -42,7 +42,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * [ssh2](https://github.com/mscdex/ssh2) SSH2 client and server modules written in pure JavaScript for node.js
 * [netcat](https://github.com/roccomuso/netcat)
 * [node-x11](https://github.com/sidorares/node-x11)  X11 node.js network protocol client
-* [http-parser](https://github.com/creationix/http-parser-js) A pure JS HTTP parser for node.
+* [http-parser](https://github.com/creationix/http-parser-js) This library parses HTTP protocol for requests and responses. It was created to replace http_parser.c since calling C++ function from JS is really slow in V8.
 
 ## system (系统)
 

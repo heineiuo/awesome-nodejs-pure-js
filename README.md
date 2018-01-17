@@ -110,6 +110,8 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * [dsjslib(collections)](https://github.com/monmohan/dsjslib) A library implementing several standard data structures and utilities
 
 #### algorithms
+* [dsp.js](https://github.com/corbanbrook/dsp.js) Digital Signal Processing 
+* [fourier-transform](https://github.com/scijs/fourier-transform) Minimalistic and efficient FFT implementation
 * [fabonacci-layout](https://github.com/heineiuo/fabonacci-layout)
 * [crc](https://github.com/alexgorbatchev/node-crc) Module for calculating Cyclic Redundancy Check (CRC)
 * [buffer-crc32](https://github.com/brianloveswords/buffer-crc32) A pure javascript CRC32 algorithm that plays nice with binary data

@@ -34,6 +34,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 
 ## compress (压缩)
 * [pako](https://github.com/nodeca/pako) high speed zlib port to javascript
+* [jszip](https://github.com/Stuk/jszip) Create, read and edit .zip files with Javascript
 * [tar](https://github.com/npm/node-tar) tar for node
 * [tar-stream](https://github.com/mafintosh/tar-stream)  tar-stream is a streaming tar parser and generator.
 * [snappyjs](https://github.com/zhipeng-jia/snappyjs) JavaScript implementation of Google's Snappy compression library
@@ -61,10 +62,13 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * [pdf.js](https://github.com/mozilla/pdf.js)
 * [pdfmake](https://github.com/bpampuch/pdfmake)
 * [plist](https://github.com/TooTallNate/plist.js)
+* [Binary plist](https://github.com/ladinu/bplist) Binary plist parser and creator for node.js
 * [xmldom](https://github.com/jindw/xmldom) xml
 * [file-type](https://github.com/sindresorhus/file-type) Detect the file type of a Buffer/Uint8Array 
 * [mime](https://github.com/broofa/node-mime) mime type for javascript
 * [css](https://github.com/reworkcss/css) CSS parser / stringifier for Node.js
+* [gradle](https://github.com/ninetwozero/gradle-to-js) A quick & dirty Gradle build file to JavaScript object parser
+* [.properties](https://github.com/gagle/node-properties) .properties parser/stringifier.
 
 #### data interchange format (数据交换格式)
 * [bson](https://github.com/mongodb/js-bson) BSON is short for Binary JSON and is the binary-encoded serialization of JSON-like documents

@@ -108,6 +108,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * [Data-Structures(collections)](https://github.com/Bishop92/JavaScript-Data-Structures) A library for data structure in JavaScript
 * [lago(collections)](https://github.com/yangshun/lago) 🌴 Data Structures and Algorithms library for JavaScript.
 * [dsjslib(collections)](https://github.com/monmohan/dsjslib) A library implementing several standard data structures and utilities
+* [uint32](https://github.com/fxa/uint32.js) An javascript implementation of bitwise uint32 operations
 
 #### algorithms
 * [dsp.js](https://github.com/corbanbrook/dsp.js) Digital Signal Processing 

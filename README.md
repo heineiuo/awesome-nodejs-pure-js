@@ -64,6 +64,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * [xmldom](https://github.com/jindw/xmldom) xml
 * [file-type](https://github.com/sindresorhus/file-type) Detect the file type of a Buffer/Uint8Array 
 * [mime](https://github.com/broofa/node-mime) mime type for javascript
+* [css](https://github.com/reworkcss/css) CSS parser / stringifier for Node.js
 
 #### data interchange format (数据交换格式)
 * [bson](https://github.com/mongodb/js-bson) BSON is short for Binary JSON and is the binary-encoded serialization of JSON-like documents

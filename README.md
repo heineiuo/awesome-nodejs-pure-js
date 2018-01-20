@@ -1,4 +1,4 @@
-# awesome-nodejs-pure-js
+# awesome-nodejs-pure-js[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Many low level node.js libs written in c/c++ or dependent on native modules. That's awesome, but in some trade off case we need pure javascript lib.
 
@@ -135,3 +135,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 Contribution welcome, please use issue to commit libs.
 
 欢迎通过issue提交您推荐的库。
+
+## License
+
+Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

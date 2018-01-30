@@ -114,7 +114,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * [lago(collections)](https://github.com/yangshun/lago) 🌴 Data Structures and Algorithms library for JavaScript.
 * [dsjslib(collections)](https://github.com/monmohan/dsjslib) A library implementing several standard data structures and utilities
 * [uint32](https://github.com/fxa/uint32.js) An javascript implementation of bitwise uint32 operations
-* [tiny-queue](https://github.com/nolanlawson/tiny-queue) A simple FIFO queue implementation as a linked list. The main benefit is to avoid doing shift() on an array, which may be slow. 
+* [tiny-queue](https://github.com/nolanlawson/tiny-queue) A simple FIFO queue implementation as a linked list. The main benefit is to avoid doing shift() on an array, which may be slow.
 
 #### algorithms
 * [dsp.js](https://github.com/corbanbrook/dsp.js) Digital Signal Processing 
@@ -122,6 +122,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * [fibonacci-layout](https://github.com/heineiuo/fibonacci-layout)
 * [crc](https://github.com/alexgorbatchev/node-crc) Module for calculating Cyclic Redundancy Check (CRC)
 * [buffer-crc32](https://github.com/brianloveswords/buffer-crc32) A pure javascript CRC32 algorithm that plays nice with binary data
+* [algorithms.js](https://github.com/felipernb/algorithms.js) Traditional Computer Science algorithms and data structures implemented in JavaScript
 
 ## database
 

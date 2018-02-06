@@ -11,9 +11,11 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * [jimp](https://github.com/oliver-moran/jimp) An image processing library written entirely in JavaScript
 * ⭐️ [node-pureimage](https://github.com/joshmarinacci/node-pureimage) Pure JS implementation of an image drawing and encoding api, based on HTML Canvas
 * [look-same](https://github.com/gemini-testing/looks-same) Node.js library for comparing images
+* [omggif](https://github.com/deanm/omggif) JavaScript implementation of a GIF 89a encoder and decoder
 
 #### video (视频)
 * [node-mpeg2ts-parser](https://github.com/t6tn4k/node-mpeg2ts-parser) MPEG-2 TS parser in Node.js
+* [whammy.js](https://github.com/antimatter15/whammy/blob/master/whammy.js) A real time javascript webm encoder based on a canvas hack
 
 #### captcha (验证码)
 * [trek captcha](https://github.com/trekjs/captcha) A Lightweight Pure JavaScript Captcha for Node.js. No C/C++, No ImageMagick, No Canvas.

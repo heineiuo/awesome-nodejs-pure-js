@@ -12,6 +12,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * ⭐️ [node-pureimage](https://github.com/joshmarinacci/node-pureimage) Pure JS implementation of an image drawing and encoding api, based on HTML Canvas
 * [look-same](https://github.com/gemini-testing/looks-same) Node.js library for comparing images
 * [omggif](https://github.com/deanm/omggif) JavaScript implementation of a GIF 89a encoder and decoder
+* [gifuct-js](https://github.com/matt-way/gifuct-js) Simple to use javascript .GIF decoder/parser
 
 #### video (视频)
 * [node-mpeg2ts-parser](https://github.com/t6tn4k/node-mpeg2ts-parser) MPEG-2 TS parser in Node.js

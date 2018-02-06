@@ -51,6 +51,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 #### NAT
 * [stun](https://github.com/nodertc/stun) Session Traversal Utilities for NAT (STUN) server. Implements RFC5389 with partial support RFC5766, RFC5245, RFC5780.
 * [stun](https://github.com/enobufs/stun) STUN (Simple Traversal of UDP through NAT: RFC3489)
+* [turn-js](https://github.com/nicojanssens/turn-js) implements (most of) the features specified in RFC 5766
 
 ## system (系统)
 

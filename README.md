@@ -71,6 +71,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * [pdfmake](https://github.com/bpampuch/pdfmake)
 * [plist](https://github.com/TooTallNate/plist.js)
 * [Binary plist](https://github.com/ladinu/bplist) Binary plist parser and creator for node.js
+* [sax-js](https://github.com/isaacs/sax-js) A sax style parser for JS
 * [xmldom](https://github.com/jindw/xmldom) A PURE JS W3C Standard based(XML DOM Level2 CORE) DOMParser and XMLSerializer.
 * [file-type](https://github.com/sindresorhus/file-type) Detect the file type of a Buffer/Uint8Array 
 * [mime](https://github.com/broofa/node-mime) mime type for javascript

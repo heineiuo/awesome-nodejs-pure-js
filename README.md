@@ -17,6 +17,8 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 #### video (视频)
 * [node-mpeg2ts-parser](https://github.com/t6tn4k/node-mpeg2ts-parser) MPEG-2 TS parser in Node.js
 * [whammy.js](https://github.com/antimatter15/whammy/blob/master/whammy.js) A real time javascript webm encoder based on a canvas hack
+* [mp4-stream](https://github.com/mafintosh/mp4-stream) Streaming mp4 encoder and decoder
+* [mp4-box-encoding](https://github.com/jhiesey/mp4-box-encoding) mp4 header reading and writing using the abstract-encoding interface
 
 #### captcha (验证码)
 * [trek captcha](https://github.com/trekjs/captcha) A Lightweight Pure JavaScript Captcha for Node.js. No C/C++, No ImageMagick, No Canvas.
@@ -93,7 +95,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 #### pinyin (拼音)
 * [pinyinjs](https://github.com/sxei/pinyinjs) 一个实现汉字与拼音互转的工具库
 
-#### char encode/decode (文本编码)
+#### char encode/decode (编解码)
 * [iconv-lite](https://github.com/ashtuchkin/iconv-lite) Convert character encodings in pure javascript.
 * [base64](https://github.com/beatgammit/base64-js)
   
@@ -133,6 +135,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * [crc](https://github.com/alexgorbatchev/node-crc) Module for calculating Cyclic Redundancy Check (CRC)
 * [buffer-crc32](https://github.com/brianloveswords/buffer-crc32) A pure javascript CRC32 algorithm that plays nice with binary data
 * [algorithms.js](https://github.com/felipernb/algorithms.js) Traditional Computer Science algorithms and data structures implemented in JavaScript
+* [uint64be](https://github.com/mafintosh/uint64be) Encode / decode big endian unsigned 64 bit integers
 
 ## database
 

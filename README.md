@@ -78,6 +78,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * [css](https://github.com/reworkcss/css) CSS parser / stringifier for Node.js
 * [gradle](https://github.com/ninetwozero/gradle-to-js) A quick & dirty Gradle build file to JavaScript object parser
 * [.properties](https://github.com/gagle/node-properties) .properties parser/stringifier.
+* [csv-parser](https://github.com/mafintosh/csv-parser) Streaming csv parser inspired by binary-csv that aims to be faster than everyone else
 
 #### data interchange format (数据交换格式)
 * [bson](https://github.com/mongodb/js-bson) BSON is short for Binary JSON and is the binary-encoded serialization of JSON-like documents

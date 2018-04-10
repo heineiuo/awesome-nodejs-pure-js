@@ -112,6 +112,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 #### polyfill
 * [date-time-format-timezone](https://github.com/yahoo/date-time-format-timezone) Surgically polyfills timezone support in Intl.DateTimeFormat API
 * [Intl.js](https://github.com/andyearnshaw/Intl.js) Compatibility implementation of the ECMAScript Internationalization API (ECMA-402) for JavaScript
+* [node-opencc](https://github.com/compulim/node-opencc) Translates between Traditional and Simplified Chinese in pure Node.js
 
 ## data structures and algorithms  
 * [lru-cache](https://github.com/isaacs/node-lru-cache) A cache object that deletes the least-recently-used items.

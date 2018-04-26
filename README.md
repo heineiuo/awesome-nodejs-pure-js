@@ -137,6 +137,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * [buffer-crc32](https://github.com/brianloveswords/buffer-crc32) A pure javascript CRC32 algorithm that plays nice with binary data
 * [algorithms.js](https://github.com/felipernb/algorithms.js) Traditional Computer Science algorithms and data structures implemented in JavaScript
 * [uint64be](https://github.com/mafintosh/uint64be) Encode / decode big endian unsigned 64 bit integers
+* [color-diff](https://github.com/markusn/color-diff) Implements the CIEDE2000 color difference algorithm, conversion between RGB and LAB color and mapping all colors in palette X to the closest color in palette Y based on the CIEDE2000 difference.
 
 ## database
 

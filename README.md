@@ -143,6 +143,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 
 * [thalia](https://github.com/calvinmetcalf/thalia) pure js NOT in memory db
 * [jinn-db](https://github.com/lasalvavida/jinn-db) A pure javascript, persistent key-value store for Node.js that supports out-of-core data access.
+* [node-level](https://github.com/heineiuo/node-level) A pure js key-value storage engine based on LSM, inspired by Leveldb.
 * [node-lsm](https://github.com/gutobortolozzo/node-lsm) log structured merge tree in pure node.js
 * [node-leveljs](https://github.com/lemonhall/node-leveljs) LevelDB in pure JavaScript, a very immature work in progress
 * [hyperdb](https://github.com/mafintosh/hyperdb) Distributed scalable database

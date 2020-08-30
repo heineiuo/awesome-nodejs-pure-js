@@ -43,6 +43,7 @@ Many low level node.js libs written in c/c++ or dependent on native modules. Tha
 * [tar](https://github.com/npm/node-tar) tar for node
 * [tar-stream](https://github.com/mafintosh/tar-stream)  tar-stream is a streaming tar parser and generator.
 * [snappyjs](https://github.com/zhipeng-jia/snappyjs) JavaScript implementation of Google's Snappy compression library
+* [gzipme](https://github.com/caio-ribeiro-pereira/gzipme) A simple way to gzip your files
 
 ## net protocol (网络库)
 * [ws](https://github.com/websockets/ws) Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
